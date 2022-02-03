@@ -38,7 +38,7 @@ header {
 header input {
     background-color: #eee;
     border: none;
-    border-radius: 3px;
+    border-radius: 5px;
     font-family: inherit;
     padding: 0.5rem 1rem;
 }
