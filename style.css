@@ -23,7 +23,7 @@ img {
 .mobile-container {
     background-color: #fff;
     box-shadow: 0 0 10px 2px #3333331a;
-    border-radius: 3px;
+    border-radius: 10px;
     overflow: hidden;
     width: 400px;
 }
@@ -38,7 +38,7 @@ header {
 header input {
     background-color: #eee;
     border: none;
-    border-radius: 3px;
+    border-radius: 5px;
     font-family: inherit;
     padding: 0.5rem 1rem;
 }
